@@ -1,0 +1,36 @@
+body{
+	background: #d2d2d1 url('imagens/fundo.png');
+	font: 16px, Arial, Helvetica, sans-serif;
+	}
+
+#principal{
+
+	width: 100%;
+
+}
+
+#menu{
+	width: 100%;
+	background: #c5c5b2;
+	padding: 18px;
+}
+
+#conteudo{
+
+	width: 900px;
+	background: white;
+	padding: 18px;
+	width: 100%;
+}
+
+#roda-pe{
+	width: 100%;
+	background: #c5c5b2;
+	padding: 2px;
+
+}
+.borda{
+	border-style: outset; 
+	border-color: grey;
+	border-width: 10px 10px 10px 10px;
+}
